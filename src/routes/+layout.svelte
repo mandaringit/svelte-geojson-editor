@@ -1,6 +1,5 @@
 <script>
 	googleMaps();
-	console.log(import.meta.env);
 	function googleMaps() {
 		// https://developers.google.com/maps/documentation/javascript/load-maps-js-api?hl=ko#dynamic-library-import
 		// prettier-ignore
