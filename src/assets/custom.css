@@ -1,0 +1,14 @@
+html,
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.point {
+	width: 7px;
+	height: 7px;
+	background-color: orange;
+	border: 5px solid gray;
+	border-radius: 50%;
+}
